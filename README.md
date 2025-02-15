@@ -1,2 +1,2 @@
 # wego
-Hello world
+Hello world!
